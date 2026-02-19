@@ -6,10 +6,10 @@ A lab experience demonstrating how to create simple tests using Python.
 Learning Objectives
 -------------------
 
-This experience is targeted at learners who are new to Python programming. After students complete this project, they should be able to:
+After completing this project, learners will be able to:
 
-- Write [pure functions](https://en.wikipedia.org/wiki/Pure_function) having no side effects
-- Use [assertions](https://en.wikipedia.org/wiki/Assertion_(software_development)) to confirm expectations
+1. Write [pure functions](https://en.wikipedia.org/wiki/Pure_function) having no side effects
+2. Use [assertions](https://en.wikipedia.org/wiki/Assertion_(software_development)) to confirm expectations
 
 Task
 ----
